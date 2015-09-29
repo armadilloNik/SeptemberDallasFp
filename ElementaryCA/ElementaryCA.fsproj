@@ -5,14 +5,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>e3b9f92f-5725-4704-86f4-d685767e44e9</ProjectGuid>
+    <ProjectGuid>d6dc8452-f2ac-4a71-a92e-990c6f54896c</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DallasFP_CA</RootNamespace>
-    <AssemblyName>DallasFP_CA</AssemblyName>
+    <RootNamespace>ElementaryCA</RootNamespace>
+    <AssemblyName>ElementaryCA</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFSharpCoreVersion>4.4.0.0</TargetFSharpCoreVersion>
-    <Name>DallasFP_CA</Name>
+    <Name>ElementaryCA</Name>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -23,7 +23,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <PlatformTarget>AnyCPU</PlatformTarget>
-    <DocumentationFile>bin\Debug\DallasFP_CA.XML</DocumentationFile>
+    <DocumentationFile>bin\Debug\ElementaryCA.XML</DocumentationFile>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
@@ -34,7 +34,7 @@
     <DefineConstants>TRACE</DefineConstants>
     <WarningLevel>3</WarningLevel>
     <PlatformTarget>AnyCPU</PlatformTarget>
-    <DocumentationFile>bin\Release\DallasFP_CA.XML</DocumentationFile>
+    <DocumentationFile>bin\Release\ElementaryCA.XML</DocumentationFile>
     <Prefer32Bit>true</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>

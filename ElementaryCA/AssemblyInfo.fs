@@ -1,4 +1,4 @@
-﻿namespace DallasFP_CA.AssemblyInfo
+﻿namespace ElementaryCA.AssemblyInfo
 
 open System.Reflection
 open System.Runtime.CompilerServices
@@ -7,11 +7,11 @@ open System.Runtime.InteropServices
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[<assembly: AssemblyTitle("DallasFP_CA")>]
+[<assembly: AssemblyTitle("ElementaryCA")>]
 [<assembly: AssemblyDescription("")>]
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("")>]
-[<assembly: AssemblyProduct("DallasFP_CA")>]
+[<assembly: AssemblyProduct("ElementaryCA")>]
 [<assembly: AssemblyCopyright("Copyright ©  2015")>]
 [<assembly: AssemblyTrademark("")>]
 [<assembly: AssemblyCulture("")>]
@@ -22,7 +22,7 @@ open System.Runtime.InteropServices
 [<assembly: ComVisible(false)>]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[<assembly: Guid("e3b9f92f-5725-4704-86f4-d685767e44e9")>]
+[<assembly: Guid("d6dc8452-f2ac-4a71-a92e-990c6f54896c")>]
 
 // Version information for an assembly consists of the following four values:
 // 

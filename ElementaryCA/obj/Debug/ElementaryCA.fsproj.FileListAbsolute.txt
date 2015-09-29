@@ -1,0 +1,16 @@
+c:\dallasFp\ElementaryCA\ElementaryCA\bin\Debug\ElementaryCA.exe.config
+c:\dallasFp\ElementaryCA\ElementaryCA\bin\Debug\ElementaryCA.XML
+c:\dallasFp\ElementaryCA\ElementaryCA\bin\Debug\ElementaryCA.exe
+c:\dallasFp\ElementaryCA\ElementaryCA\bin\Debug\ElementaryCA.pdb
+c:\dallasFp\ElementaryCA\ElementaryCA\bin\Debug\FSharp.Core.dll
+c:\dallasFp\ElementaryCA\ElementaryCA\bin\Debug\FSharp.Core.xml
+c:\dallasFp\ElementaryCA\ElementaryCA\obj\Debug\ElementaryCA.exe
+c:\dallasFp\ElementaryCA\ElementaryCA\obj\Debug\ElementaryCA.pdb
+C:\dallasFp\ElementaryCA\bin\Debug\ElementaryCA.exe.config
+C:\dallasFp\ElementaryCA\bin\Debug\ElementaryCA.XML
+C:\dallasFp\ElementaryCA\bin\Debug\ElementaryCA.exe
+C:\dallasFp\ElementaryCA\bin\Debug\ElementaryCA.pdb
+C:\dallasFp\ElementaryCA\bin\Debug\FSharp.Core.dll
+C:\dallasFp\ElementaryCA\bin\Debug\FSharp.Core.xml
+C:\dallasFp\ElementaryCA\obj\Debug\ElementaryCA.exe
+C:\dallasFp\ElementaryCA\obj\Debug\ElementaryCA.pdb
