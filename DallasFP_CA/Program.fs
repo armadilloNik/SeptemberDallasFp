@@ -19,7 +19,7 @@ let main argv =
         match Seq.length sq < n with
             | true -> Seq.empty  
             | false -> seq { 
-                            yield Seq.truncate n sq 
+                            yield Seq.take n sq 
                             yield! slideGroup n (Seq.skip 1 sq)   
                            }
 
